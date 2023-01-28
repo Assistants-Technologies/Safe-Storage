@@ -8,4 +8,4 @@ Source available on [GitHub](https://github.com/Assistants-Center/Safe-Storage).
 
 <hr>
 
-Copyright © 2020-2022 Assistants Center, All right reserved
+Copyright © 2020-2023 Assistants Center, All right reserved
